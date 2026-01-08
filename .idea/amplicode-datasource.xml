@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AmplicodeJpaDataSourceConfig">
+    <data-sources>
+      <data-source id="37a5ac0f-c393-405d-85ce-f9beed96e950" name="clashrecipe" url="jdbc:postgresql://localhost:5433/clashrecipe" driverClass="org.postgresql.Driver" />
+    </data-sources>
+    <option name="preferredDataSourceId" value="37a5ac0f-c393-405d-85ce-f9beed96e950" />
+  </component>
+</project>

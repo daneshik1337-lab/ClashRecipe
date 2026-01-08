@@ -1,0 +1,6 @@
+com\example\ClashRecipe\ClashRecipeApplication.class
+com\example\ClashRecipe\entity\Ingredient\Rarity.class
+com\example\ClashRecipe\entity\recipe\Difficulty.class
+com\example\ClashRecipe\entity\recipe\RecipeTag.class
+com\example\ClashRecipe\entity\recipe\Recipe.class
+com\example\ClashRecipe\entity\Ingredient\Ingredient.class
