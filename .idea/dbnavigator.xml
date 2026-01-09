@@ -57,7 +57,10 @@ where rarity != 'COMMON';]]></console>
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="6d15a7b2-d7b7-4acb-bb05-719ae49dcdb2" object-ref="consoles/restart_progress" />
+      <object connection-id="6d15a7b2-d7b7-4acb-bb05-719ae49dcdb2" object-ref="consoles/clashrecipe" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatabasePrerequisiteManager">
     <prerequisites />
