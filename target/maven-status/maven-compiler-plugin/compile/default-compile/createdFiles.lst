@@ -1,6 +1,16 @@
-com\example\ClashRecipe\ClashRecipeApplication.class
+com\example\ClashRecipe\controller\Controller.class
 com\example\ClashRecipe\entity\Ingredient\Rarity.class
+com\example\ClashRecipe\mapper\RecipeMapper.class
 com\example\ClashRecipe\entity\recipe\Difficulty.class
 com\example\ClashRecipe\entity\recipe\RecipeTag.class
+com\example\ClashRecipe\service\Service.class
 com\example\ClashRecipe\entity\recipe\Recipe.class
+com\example\ClashRecipe\repository\RecipeRepository.class
+com\example\ClashRecipe\dto\RecipeRequestDto.class
 com\example\ClashRecipe\entity\Ingredient\Ingredient.class
+com\example\ClashRecipe\mapper\IngrMapper.class
+com\example\ClashRecipe\dto\RecipeResponseDto.class
+com\example\ClashRecipe\repository\IngredientRepository.class
+com\example\ClashRecipe\ClashRecipeApplication.class
+com\example\ClashRecipe\dto\IngrResponseDto.class
+com\example\ClashRecipe\dto\IngrRequestDto.class

@@ -1,6 +1,16 @@
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\ClashRecipeApplication.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\controller\Controller.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\dto\IngrRequestDto.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\dto\IngrResponseDto.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\dto\RecipeRequestDto.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\dto\RecipeResponseDto.java
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\entity\Ingredient\Ingredient.java
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\entity\Ingredient\Rarity.java
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\entity\recipe\Difficulty.java
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\entity\recipe\Recipe.java
 C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\entity\recipe\RecipeTag.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\mapper\IngrMapper.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\mapper\RecipeMapper.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\repository\IngredientRepository.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\repository\RecipeRepository.java
+C:\Users\danes\OpenideProjects\ClashRecipe\src\main\java\com\example\ClashRecipe\service\Service.java
